@@ -46,7 +46,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/demo', (req, res) => {
-  res.send('Hello World! DEMO')
+  res.send('Hello DEMO !')
 })
 
 app.listen(8080)
