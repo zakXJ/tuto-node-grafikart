@@ -1,0 +1,24 @@
+{
+  "name": "tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myfirst.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakXJ/tuto-node-grafikart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakXJ/tuto-node-grafikart/issues"
+  },
+  "homepage": "https://github.com/zakXJ/tuto-node-grafikart#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
+}
